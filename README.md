@@ -30,7 +30,23 @@ Elige una opción del menú
 opción: 1
 
 Listado de países
-Nombre: Argentina - Continente: América - Población: 46000000 - Superficie: 2780400 km²
-Nombre: España - Continente: Europa - Población: 47000000 - Superficie: 505990 km²
+Nombre: Argentina - Continente: América - Población: 45376763 - Superficie: 2780400 km²
+Nombre: Japón - Continente: Asia - Población: 125800000 - Superficie: 377975 km²
+
+Elige una opción del menú
+1. Mostrar Países 
+2. Agregar Nuevo País 
+3. Actualizar Población y Superficie de un País 
+4. Buscar País 
+5. Filtrar Países 
+6. Ordenar Países 
+7. Estadísticas 
+8. Salir
+opción: 7
+Estadisticas
+
+País con mayor y menor población:
+Brasil 213993437 - Mayor
+suecia 10 - Menor
 
 Link al video de explicación e informe: https://drive.google.com/drive/folders/1-ULvixv2a0qTRFh7l0G28cQZtas3QyQM
